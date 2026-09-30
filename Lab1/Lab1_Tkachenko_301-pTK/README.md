@@ -1,4 +1,4 @@
-# Modern Programming Course - Lab 1
+# SMP - Lab 1
 
 **ПІБ:** Ткаченко Микола Віталійович
 **Група:** 301-пТК
