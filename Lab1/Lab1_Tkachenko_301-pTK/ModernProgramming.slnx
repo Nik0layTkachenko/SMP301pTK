@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CinemaBooking.App/CinemaBooking.App.csproj" />
+    <Project Path="src/CinemaBooking.Domain/CinemaBooking.Domain.csproj" />
+  </Folder>
+</Solution>
