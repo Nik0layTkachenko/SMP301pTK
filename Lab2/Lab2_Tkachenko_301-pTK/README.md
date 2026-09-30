@@ -1,4 +1,4 @@
-# Modern Programming Course - Lab 2 (OOP)
+# SMP - Lab 2 (OOP)
 
 **ПІБ:** Ткаченко Микола Віталійович
 **Група:** 301-пТК
